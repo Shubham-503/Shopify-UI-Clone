@@ -2,7 +2,7 @@
 
 ## Project Description
 
-> A Shopify UI clone developed using hTML amd Tailwind CSS.
+> A Shopify UI clone developed using HTML and Tailwind CSS.
 > Responsive design
 
 ## Technologies Used
