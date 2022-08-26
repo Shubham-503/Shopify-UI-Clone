@@ -19,9 +19,7 @@
 
 #### It took around 6 hr to build
 
-- livelink()
-
-#
+- # [Live Link](https://shopify-store-ui.netlify.app/)
 
 ![Screenshots](/images/thumbnail.PNG)
 ![Screenshots](/images/thumbnail2.PNG)
